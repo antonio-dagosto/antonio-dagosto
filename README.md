@@ -1,4 +1,4 @@
-# Hello! I'm Anthony
+# Hello! I'm Antonio, but I usually go by Anthony
 
 ---
 
