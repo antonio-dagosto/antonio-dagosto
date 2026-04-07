@@ -23,7 +23,7 @@
 ---
 
 ## GitHub Stats
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-dagosto&show_icons=true&theme=tokyonight)  
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-dagosto&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-dagosto&layout=compact&theme=tokyonight)
 
 ---
